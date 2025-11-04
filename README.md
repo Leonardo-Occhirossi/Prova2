@@ -2,6 +2,6 @@
 ## titolo più piccolo 
 ### titolo ancora più piccolo 
 
-''' bash
+```bash
 print("so gay")
-'''
+```
